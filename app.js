@@ -7,3 +7,4 @@
 
 // console.log(orang);
 // console.log(orang.pekerjaan);
+ini gue ketik di contohbranch
